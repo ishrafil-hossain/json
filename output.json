@@ -1,0 +1,65 @@
+ [
+  {
+    "id": 101,
+    "name": "HTML",
+    "price": 1000,
+    "duration": 15,
+    "img": "https://i.ibb.co/HG44Nrp/html-2.jpg"
+  },
+  {
+    "id": 102,
+    "name": "CSS",
+    "price": 1000,
+    "duration": 15,
+    "img": "https://i.ibb.co/Q8dRtc4/css-2.jpg"
+  },
+  {
+    "id": 103,
+    "name": "Bootstrap",
+    "price": 1500,
+    "duration": 15,
+    "img": "https://i.ibb.co/HgRrNR6/bootstrap.png"
+  },
+  {
+    "id": 104,
+    "name": "Tailwind",
+    "price": 1500,
+    "duration": 15,
+    "img": "https://i.ibb.co/hMRnh84/tailwind-4.jpg"
+  },
+  {
+    "id": 105,
+    "name": "JavaScript",
+    "price": 2000,
+    "duration": 15,
+    "img": "https://i.ibb.co/wMVJwXq/js-2.jpg"
+  },
+  {
+    "id": 106,
+    "name": "React JS",
+    "price": 2500,
+    "duration": 15,
+    "img": "https://i.ibb.co/DMN0ZNc/react.png"
+  },
+  {
+    "id": 107,
+    "name": "Node JS",
+    "price": 2000,
+    "duration": 15,
+    "img": "https://i.ibb.co/J3Sr7Rr/node.jpg"
+  },
+  {
+    "id": 108,
+    "name": "Express JS",
+    "price": 2500,
+    "duration": 15,
+    "img": "https://i.ibb.co/rmjB2y7/express-3.jpg"
+  },
+  {
+    "id": 109,
+    "name": "MongoDB",
+    "price": 3000,
+    "duration": 15,
+    "img": "https://i.ibb.co/CHhHCQ2/MONGO.png"
+  }
+]
